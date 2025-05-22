@@ -1,0 +1,7 @@
+Process van het installeren van bootstrap door middel van CDN
+
+Als je op https://getbootstrap.com/ bent, scroll je een klein beetje naar beneden,
+ en dan zie je al gelijk "Include via CDN" 
+ Je moet deze 2 velden van code plakken in je index file, 
+ en dan ben je al klaar. 
+ Ik koos hiervoor omdat het de snelste en makkelijkste manier is om bootstrap te installeren.
